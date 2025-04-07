@@ -11,7 +11,7 @@ To build a keyword extraction pipeline that identifies important terms and phras
 
 - `finetuning_google-flan_t5.ipynb` - Main notebook that handles model loading, fine-tuning, and keyword extraction.
 - `skincare.txt` - Input text file used for generating training prompts.
-- `keywords.jsonl` - Training dataset (manually labeled) used for fine-tuning.
+- `skincare.jsonl` - Training dataset (manually labeled) used for fine-tuning.
 - `README.md` - This file.
 
 
